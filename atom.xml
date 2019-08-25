@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Silence</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://silence0201.github.io/"/>
+  <updated>2019-08-25T05:36:21.905Z</updated>
+  <id>https://silence0201.github.io/</id>
+  
+  <author>
+    <name>Silence</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Init</title>
+    <link href="https://silence0201.github.io/2019/08/25/First-Init/"/>
+    <id>https://silence0201.github.io/2019/08/25/First-Init/</id>
+    <published>2019-08-25T05:23:08.000Z</published>
+    <updated>2019-08-25T05:36:21.905Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello,World</p><p>Test </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello,World&lt;/p&gt;
+&lt;p&gt;Test &lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="https://silence0201.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
